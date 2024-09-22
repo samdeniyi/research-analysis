@@ -1,0 +1,8 @@
+/venv
+*.json
+*.log
+*.csv
+.idea/*
+intervention.ipynb
+pre-intervention.ipynb
+pre-intervention-qualitative.ipynb
